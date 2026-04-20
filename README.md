@@ -23,7 +23,7 @@ Use one of these values: `Not started`, `In progress`, `Done`
 | M1 | Proof of Work Monitor | Done |
 | M2 | Block Header Analyzer | Done |
 | M3 | Difficulty History | Done |
-| M4 | AI Component | Not started |
+| M4 | AI Component | Done |
 
 ## Current Progress
 
