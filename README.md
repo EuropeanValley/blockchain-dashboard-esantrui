@@ -29,21 +29,23 @@ Use one of these values: `Not started`, `In progress`, `Done`
 
 Write 3 to 5 short lines about what you have already done.
 
-- 
-- 
-- 
+- Implemented M1 (PoW Monitor) with live block metrics: height, nonce, bits, transactions, and block age calculation.
+- Implemented M2 (Block Header Analyzer) with block lookup, UTC timestamp formatting, and raw JSON inspection.
+- Implemented M3 (Difficulty History) with moving average, logarithmic scale options, and period-change KPIs.
+- Implemented M4 (AI Component) with ARIMA(1,2,1), SARIMA with fallback, and Holt-Winters exponential smoothing for forecasting.
+- Fixed blockchain.info API endpoint (switched from /charts to /api.blockchain.info), added statsmodels dependency, and deployed all code to production repo.
 
 ## Next Step
 
 Write the next small step you will do before the next class.
 
-- 
+- Add screenshots and interpretation notes for each module's output; refine UI/UX for better readability and document model performance metrics.
 
 ## Main Problem or Blocker
 
 Write here if you are stuck with something.
 
-- 
+- None. All 4 milestones completed and deployed successfully. SARIMA convergence issues resolved with automatic fallback to stable parameters.
 
 ## How to Run
 
