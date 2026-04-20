@@ -21,7 +21,7 @@ Use one of these values: `Not started`, `In progress`, `Done`
 | Module | What it should include | Status |
 |---|---|---|
 | M1 | Proof of Work Monitor | Done |
-| M2 | Block Header Analyzer | Not started |
+| M2 | Block Header Analyzer | Done |
 | M3 | Difficulty History | Not started |
 | M4 | AI Component | Not started |
 
